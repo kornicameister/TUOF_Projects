@@ -1,3 +1,6 @@
 [submodule "cpp/Qubic"]
 	path = cpp/Qubic
 	url = git@github.com:kornicameister/Qubic.git
+[submodule "java/JSchnorr"]
+	path = java/JSchnorr
+	url = git@github.com:kornicameister/JSchnorr.git
