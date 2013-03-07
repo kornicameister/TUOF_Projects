@@ -1,3 +1,8 @@
+#excluded
+*.idea
+*.iml
+target/
+
 # Compiled Object files
 *.slo
 *.lo
