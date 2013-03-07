@@ -1,0 +1,3 @@
+[submodule "cpp/Qubic"]
+	path = cpp/Qubic
+	url = git@github.com:kornicameister/Qubic.git
