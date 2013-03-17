@@ -7,3 +7,6 @@
 [submodule "java/IAD_Executor"]
 	path = java/IAD_Executor
 	url = git@github.com:kornicameister/IAD_Executor.git
+[submodule "java/NeuralNetwork"]
+	path = java/NeuralNetwork
+	url = git@github.com:kornicameister/NeuralNetwork.git
