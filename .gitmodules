@@ -10,6 +10,3 @@
 [submodule "java/NeuralNetwork"]
 	path = java/NeuralNetwork
 	url = git@github.com:kornicameister/NeuralNetwork.git
-[submodule "java/puzzle15"]
-	path = java/puzzle15
-	url = git@github.com:kornicameister/Puzzle15.git
